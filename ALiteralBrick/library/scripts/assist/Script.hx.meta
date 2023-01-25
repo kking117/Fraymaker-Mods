@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "c6526e76-fe37-439b-8c6c-876ecea7c27c",
+  "id": "aliteralbrickScript",
+  "language": "hscript",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "ASSIST",
+      "version": "0.1.2"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

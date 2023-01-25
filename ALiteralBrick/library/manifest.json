@@ -1,0 +1,33 @@
+{
+  "resourceId": "aliteralbrick",
+  "content": [{
+    "id": "aliteralbrick",
+    "name": "A Literal Brick",
+    "description": "Adds a literal brick as an Assist to Fraymakers.",
+    "type": "assist",
+    "objectStatsId": "aliteralbrickAssistObjectStats",
+    "animationStatsId": "aliteralbrickAnimationStats",
+    "hitboxStatsId": "aliteralbrickHitboxStats",
+    "scriptId": "aliteralbrickScript",
+    "costumesId": "aliteralbrickCostumes",
+    "metadata": {
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"assist_full",
+          "animation_icon_no_palette":"assist_css"
+        },
+        "hud":{
+          "animation":"assist_hud"
+        },
+        "css":{
+          "animation":"assist_css",
+          "info":{
+            "game":"World 1-2",
+            "description":"Toss a literal brick. Far from lethal in this world but still quite painful."
+          }
+        }
+      }
+    }
+  }]
+}

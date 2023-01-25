@@ -1,0 +1,13 @@
+{
+  "export": true,
+  "guid": "3473df39-c85d-4046-a45c-011a1bab8070",
+  "id": "aliteralbrickAssistObjectStats",
+  "language": "hscript",
+  "pluginMetadata": {
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}
